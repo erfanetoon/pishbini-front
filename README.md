@@ -27,6 +27,16 @@ You must start and run [Backend Server](https://github.com/Erfanhp77/pishbini-ba
 
 After that you must set your backend details for apis
 
+## Only account details
+
+`email: admin@gmail.com`
+
+`password: 123456`
+
+If you have any problem just send me an email
+
+`erfanhoseinpor@gmail.com`
+
 ## Learn More
 
 We use `React` and `Typescript` over `create-react-app` for main structure
